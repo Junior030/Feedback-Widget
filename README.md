@@ -6,6 +6,8 @@
 
 Community for feedback on projects.
 
+<img src="./img/app-img.png">
+
 ------------------------------
 
 <br>
